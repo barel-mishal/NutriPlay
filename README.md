@@ -1,4 +1,4 @@
-# [NutriPlay] (http://www.nutriplay.io/)
+# [NutriPlay](http://www.nutriplay.io/)
 Nutrition Evalution Tool For The Public And With Unique Tools For Health Practitioners
 
 
